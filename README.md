@@ -1,5 +1,9 @@
 # 给 vuex 补充类型
 
+**也许我们现在有了更好的方案，欢迎前往 [z-vuex-typed](https://github.com/zcf0508/vuex-typed) 查看。**
+
+---
+
 ## 背景
 
 vuex 的替代者 Pinia 同时支持 vue2 和 vue3 项目，所以如果开发新项目，建议直接使用 Pinia 作为状态管理。如果需要使用 vue2 + options api 的话，推荐另一个项目 [hami-vuex](https://github.com/guyskk/hami-vuex) ，这个项目使得定义和调用 store 非常简单，并且能够提供完备的类型。
